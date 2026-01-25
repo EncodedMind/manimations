@@ -1,3 +1,7 @@
+First, enter WSL:
+```
+wsl
+```
 Run with:
 ```bash
 uv run manim -pql main.py
